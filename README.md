@@ -23,8 +23,8 @@ This is my Level 1 - Task 2 submission for the **CodSoft Web Development Interns
 
 ## ⚙️ Technologies Used
 
-- **HTML5**
-- **CSS3**
+- **HTML**
+- **CSS**
 - No JavaScript or external libraries/frameworks
 
 ---
